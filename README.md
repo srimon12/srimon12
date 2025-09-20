@@ -29,7 +29,7 @@ My work focuses on building resilient, secure, and privacy-centric platforms fro
     * *Key Tech:* `FastAPI`, `Qdrant`, `TypeScript`, `PostgreSQL`
 * **[VeriStamp](https://github.com/veristamp/veristamp-core)** — An edge-native service for creating cryptographic proof of authenticity for digital artifacts. It operates on a zero-knowledge principle, using client-side hashing to ensure user data is never uploaded.
     * *Key Tech:* `Cloudflare Workers`, `EdDSA (jose)`, `D1`, `Hono.js`
-* **[PropertyFlow](https://github.com/veristamp/property-flow)** — A full-stack property management portal with a quality-control staging and approval workflow, built on a resilient backend and a modern React frontend.
+* **PropertyFlow** — A full-stack property management portal with a quality-control staging and approval workflow, built on a resilient backend and a modern React frontend. (private app for client)
     * *Key Tech:* `FastAPI`, `React`, `SQLAlchemy`, `Google Drive/Sheets API`
 * **[VIA](https://github.com/veristamp/VIA):** Real-time log atlas — anomaly detection + clustering using Qdrant.
     * *Key Tech:* `FastAPI`, `Qdrant`, `SQLAlchemy`
