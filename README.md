@@ -10,7 +10,9 @@
     <img src="https://img.shields.io/badge/Website-4A90E2?style=for-the-badge&logo=Cloudflare&logoColor=white" alt="Website"/>
   </a>
 </p>
+
 ---
+
 ### Links
 * GitHub Org: [@veristamp](https://github.com/veristamp)
 * Linkdin : [@srimon12](www.linkedin.com/in/srimon12)
